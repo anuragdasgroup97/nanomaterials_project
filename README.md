@@ -1,5 +1,5 @@
 # Nanomaterials Project
-Problem Statement
+## Problem Statement
 Write a program to predict the density of states and energy levels for different nanomaterials.
  Use any computer language to write the program
 
